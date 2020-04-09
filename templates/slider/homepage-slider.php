@@ -92,14 +92,14 @@ elseif ( get_theme_mod( 'oceanic-slider-type', false ) == 'oceanic-meta-slider' 
                 <div>
                     <img src="<?php echo get_template_directory_uri() ?>/images/demo/slider-default01.jpg" alt="<?php esc_attr_e('Demo Slide One', 'oceanic') ?>" />
                     <div class="overlay">
-                        <?php _e( 'The ocean stirs the heart,<br />inspires the imagination<br />and brings eternal joy<br />to the soul.', 'oceanic' ); ?>
+                        <?php _e( 'Ready for a change?', 'oceanic' ); ?>
                     </div>
                 </div>
                 
                 <div>
                     <img src="<?php echo get_template_directory_uri() ?>/images/demo/slider-default02.jpg" alt="<?php esc_attr_e('Demo Slide Two', 'oceanic') ?>" />
                     <div class="overlay">
-                        <?php _e( 'On the beach, you can live in bliss.', 'oceanic' ); ?>
+                        <?php _e( 'Couples, anxiety, & insomnia help in Walnut Creek & Online', 'oceanic' ); ?>
                     </div>
                 </div>
                 
